@@ -53,7 +53,7 @@ e) 1, 1, 2, 3, 5, 8, ____
 
 f) 2,10, 12, 16, 17, 18, 19, ____
 
- Resposta: <a href= "https://gist.github.com/Ryangsl/d3d6b1abccb59285c52ad0ba36556913"> Resultado em código da logíca de cada letra </a>
+ Resposta: <a href= "https://gist.github.com/Ryangsl/d3d6b1abccb59285c52ad0ba36556913](https://github.com/Ryangsl/Estagio-Target/blob/main/Resultado%20lógica.py"> Resultado em código da logíca de cada letra </a>
  
  Quarta questão: 
  4 - Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
