@@ -68,7 +68,7 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 
 c) Explique como chegou no resultado.
  
- Resposta: <a href= "https://gist.github.com/Ryangsl/92b7773444e7b9091620ad38424e5527"> Resultado de A e B </a> <br>
+ Resposta: <a href= "https://github.com/Ryangsl/Estagio-Target/blob/862b4fd73b2adac0da569988abc810802919cae9/Resultado%20Carro%20e%20Caminhao.py"> Resultado de A e B </a> <br>
  C: Foi feito um codigo que calcula o tempo de viagem de cada veiculo e a distância que eles percorrem, depois imprime o resultado com base nos calculos, nos calculos incluem a divisão da distância pela velocidade para descobrir o Tempo de cada veiculo, com a exceção do caminhão que possui os pedágios foi multiplicado por 2 o tempo de 5 minutos e dividido por 60, equivalente a 1hora em minutos.
 
 Quinta questão:
@@ -82,4 +82,4 @@ a) Essa string pode ser informada através de qualquer entrada de sua preferênc
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
  
- Resultado: <a href= "https://gist.github.com/Ryangsl/519c653385cd1424864ad476e985c4d4"> Resultado da String Inversa </a>
+ Resultado: <a href= "https://github.com/Ryangsl/Estagio-Target/blob/862b4fd73b2adac0da569988abc810802919cae9/Resultado%20Inverter%20String.py"> Resultado da String Inversa </a>
